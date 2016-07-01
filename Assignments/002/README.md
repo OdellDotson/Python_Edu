@@ -16,12 +16,18 @@ Given an input line:
 Return an output line:
 	ABCabc
 
+21aA -> 12Aa
+3BAba1 -> 13ABab
+
 You may not use prebuild sorting tools.
 In fact, you may only use comparison functions, looping tools, any datatypes you know of, and the functions chr() and ord(), examples given below.
 
 
->>> chr(97)
-'a'
->>> ord('a')
-97
+> chr(97)
+> 'a'
+
+
+
+> ord('a')
+> 97
 
